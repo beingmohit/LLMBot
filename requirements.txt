@@ -3,3 +3,5 @@ openai
 llama_index
 streamlit
 streamlit_chat
+mysqlclient
+pymysql
